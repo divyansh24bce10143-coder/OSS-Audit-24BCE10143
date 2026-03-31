@@ -4,8 +4,8 @@
 
 ## 👨‍🎓 Student Details
 
-**Name:** Amogh Patel
-**Registration Number:** 24BAI10148
+**Name:** Divyansh Sonwane
+**Registration Number:** 24BCE10143
 **Course:** Open Source Software
 
 ---
@@ -149,7 +149,7 @@ This project helped in understanding the importance of open‑source software an
 # 🔗 Submission Links
 
 **GitHub Repository:**
-[https://github.com/Amogh7110/OSS-Audit-24BAI10148.git](https://github.com/Amogh7110/OSS-Audit-24BAI10148.git)
+https://github.com/divyansh24bce10143-coder/OSS-Audit-24BCE10143.git
 
 **Project Report:**
 Submitted separately as PDF on **VITyarthi Portal**
