@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #Script-2: FOSS Package Inspector
-#Author:Amogh Patel
+#Author:Divyansh Sonwane
 #Course:Open Source Software 
 
 #package name
